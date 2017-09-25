@@ -1,0 +1,10 @@
+Notepad++ 7.5.1 new featurs/enhancements & bug-fixes:
+<html>
+<body>
+<table>
+<tr>
+<td><b>Name</b></td>
+</tr>
+</table>
+</body>
+</html>
